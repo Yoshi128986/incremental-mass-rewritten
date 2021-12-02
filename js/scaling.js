@@ -1,30 +1,30 @@
 const SCALE_START = {
     super: {
-        rank: E(50),
-		tier: E(10),
-		tetr: E(7),
-        massUpg: E(100),
-		tickspeed: E(100),
-		bh_condenser: E(100),
-		gamma_ray: E(100),
-		supernova: E(15),
+        rank: E(5000000),
+		tier: E(1000000),
+		tetr: E(70000),
+        massUpg: E(10000000),
+		tickspeed: E(100000000),
+		bh_condenser: E(10000000),
+		gamma_ray: E(100000000),
+		supernova: E(1500000),
     },
 	hyper: {
-		rank: E(120),
-		massUpg: E(500),
-		tickspeed: E(250),
-		bh_condenser: E(300),
-		gamma_ray: E(300),
+		rank: E(1200000000),
+		massUpg: E(5000000000),
+		tickspeed: E(2500000000),
+		bh_condenser: E(300000000),
+		gamma_ray: E(3000000000),
 	},
 	ultra: {
-		rank: E(600),
-		tickspeed: E(700),
-		bh_condenser: E(750),
-		gamma_ray: E(800),
+		rank: E(60000000000000),
+		tickspeed: E(700000000000000),
+		bh_condenser: E(750000000000000),
+		gamma_ray: E(80000000000000),
 	},
 	meta: {/*
-		rank: E(1200),
-		tickspeed: E(3000),*/
+		rank: E(12000000000000000),
+		tickspeed: E(300000000000000000),*/
 	},
 }
 
